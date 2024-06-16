@@ -7,14 +7,14 @@ https://qiita.com/mu5dvlp/items/00e502c072504b839094
 以下を実行します
 
 ```bash
-RUN pip install qiskit qiskit_aer qiskit_optimization
+pip install qiskit qiskit_aer qiskit_optimization
 
-RUN pip install matplotlib
-RUN pip install pylatexenc
+pip install matplotlib
+pip install pylatexenc
 
-RUN pip install seaborn
+pip install seaborn
 
-RUN pip install notebook
+pip install notebook
 ```
 
 ### 2. VSCodeで開く
